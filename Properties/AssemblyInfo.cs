@@ -1,4 +1,4 @@
-﻿using MelonLoader;
+using MelonLoader;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright © Plague 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonModInfo(typeof(Main), "SocialRefreshButton", "", "Plague", null)]
+[assembly: MelonModInfo(typeof(SocialRefreshButton.Main), "SocialRefreshButton", "", "Plague", null)]
 [assembly: MelonModGame("VRChat", "VRChat")]
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
